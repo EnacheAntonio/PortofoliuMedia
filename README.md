@@ -45,12 +45,4 @@ GitHub
 +1
 
 Se rescrie corect fragmentul HTML.
-<h2>Tema 2 – Pliant</h2>
-<img src="tema-02-pliant/pliant-fata.png" alt="Fața pliantului">
-<a href="tema-02-pliant/pliant.pdf">Deschide pliantul (PDF)</a>
 
-Am corectat închiderea titlului, calea imaginii, afișarea PDF-ului printr-un link și calea către fișier, folosind numele exacte ale folderului și fișierelor.
-14. Trei lucruri care nu se publică într-un depozit public.
-Parole și coduri de acces.
-Date personale, precum adresa și numărul de telefon.
-Documente confidențiale sau private.
