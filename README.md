@@ -1,4 +1,4 @@
-# PortofoliuMedia
+# Lectie-Markdown
 
 lectie-markdown
 Ce este un depozit și ce conține în plus față de un folder obișnuit?
