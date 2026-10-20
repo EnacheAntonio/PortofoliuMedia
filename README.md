@@ -1,6 +1,5 @@
 # Lectie-Markdown
 
-lectie-markdown
 Ce este un depozit și ce conține în plus față de un folder obișnuit?
 Un depozit este un spațiu în care păstrăm fișierele unui proiect. În plus față de un folder obișnuit, acesta păstrează istoricul modificărilor prin commit-uri.
 Ce este un commit? Ce informații înregistrează?
